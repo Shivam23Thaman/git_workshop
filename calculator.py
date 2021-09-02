@@ -14,8 +14,8 @@ def mul(a,b):
 def div(a,b):
     return a/b
 
-x = int(input("x = "))
-y = int(input("y = "))
+x = 5
+y = 6
 
 print(add(x,y))
 
